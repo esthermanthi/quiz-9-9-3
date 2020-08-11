@@ -1,0 +1,58 @@
+header{
+	background-color: gray;
+	height: 100px;
+	display: block;
+}
+h1{
+	position: fixed;
+	color: white;
+	margin-left:700px;
+}
+div{
+	background-color: #F2D588;
+	height: 500px;
+	width-bottom:50px;
+	margin-left: 350px;
+	position:relative;
+	direction: block;
+	margin-right: 300px;
+	margin-left: 300px;
+	margin-top: 100px;
+}
+.Esther1 {
+    width: 20%;
+    height: 29%;
+    border-radius: 50%;
+    background-color: #F763A1;
+    position: absolute;
+    top: -160px;
+    left: -400px;
+}
+.Esther2 {
+    width: 20%;
+    height: 29%;
+    border-radius: 50%;
+    background-color: #BD36CF;
+    bottom: -105px;
+    left: 450px;
+    position: absolute;
+}
+.Esther3 {
+    width: 20%;
+    height: 29%;
+    border-radius: 50%;
+    background-color: #70C281;
+    position: absolute;
+    top: -160px;
+    left: 450px;
+}
+.Esther4 {
+    width: 20%;
+    height: 29%;
+    border-radius: 50%;
+    background-color: #71A5C9;
+    position: absolute;
+    margin-bottom: 300px;
+    left: -390px;
+    bottom: -390px;
+}
